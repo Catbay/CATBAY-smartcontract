@@ -1,2 +1,2 @@
-# CANFT-smartcontract
-Smart contract for CANFT
+# CATBAY-smartcontract
+Smart contract for CATBAY
